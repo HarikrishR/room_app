@@ -1,0 +1,14 @@
+{
+    "db": {
+        "host": "localhost",
+        "schema": "first",
+        "database": "hari",
+        "userName": "chitra",
+        "password": "Chitra12498@",
+        "dialect": "postgres",
+        "port": "5432",
+        "tables": {
+            "users": "users"
+        }
+    }
+}
